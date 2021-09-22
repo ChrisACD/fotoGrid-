@@ -1,0 +1,32 @@
+
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;1,100;1,300&display=swap");
+
+
+body {
+
+background: darkblue;
+color: antiquewhite;
+font-family: 'Poppins', sans-serif;
+
+
+}
+
+.card {
+
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+background: #323232;
+color: wheat;
+font-size: 3rem;
+
+ }
+
+
+
+
+
+
+
